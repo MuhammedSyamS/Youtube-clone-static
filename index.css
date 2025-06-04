@@ -183,13 +183,33 @@
 .Video-Screen{
    float: right;
     width:1430px;
-    height:550px;
+    height:250px;
     display: flexbox;
     display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 25px;
+    padding-left: 35px;
     
-    background-color: aqua;
 }
 
+
+.Video-embed-second-row{
+    float: right;
+    width:1430px;
+    height:250px;
+    
+    display: flexbox;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 25px;
+    padding-left: 35px;
+}
+
+.text{
+    font-weight: 600;
+}
 
 
 /*****left-section*****/
