@@ -173,7 +173,7 @@
 /*******************SECTION 4 Vedio*************************/
 .Video-Screen{
    float: right;
-    width:1420px;
+    width:1350px;
     height:250px;
     display: flexbox;
     display: flex;
@@ -185,7 +185,7 @@
 }
 .Video-embed-second-row{
     float: right;
-    width:1420px;
+    width:1350px;
     height:250px;
     display: flexbox;
     display: flex;
