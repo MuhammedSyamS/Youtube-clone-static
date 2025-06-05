@@ -149,9 +149,6 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    
-     
-    
 }
     
 .content-nav-bar{
@@ -162,9 +159,6 @@
     border-radius: 5px;
     text-align: center;
     padding-top: 5px;
-  
-    
-     
 }
 .content-nav-bar-2{
     width:50px;
@@ -176,11 +170,7 @@
     padding-top: 5px;
   
 }
-    
-
-
 /*******************SECTION 4 Vedio*************************/
-
 .Video-Screen{
    float: right;
     width:1430px;
@@ -191,16 +181,11 @@
     justify-content: space-evenly;
     padding-top: 25px;
     padding-left: 35px;
-    
-    
 }
-
-
 .Video-embed-second-row{
     float: right;
     width:1430px;
     height:250px;
-    
     display: flexbox;
     display: flex;
     flex-direction: row;
@@ -208,14 +193,10 @@
     padding-top: 25px;
     padding-left: 35px;
 }
-
 .text{
     font-weight: 600;
 }
-
-
 /*****left-section*****/
-
 .left-nav-bar{
     width:71px;
     height: 610px;
@@ -224,16 +205,12 @@
     justify-content: space-evenly ;
     position: absolute;
     display: grid;
-    
-    
-    
 }
 .Name{
     font-size: small;
     align-content: center;
 }
 .Home-icon{
-
     width:64px;
     height:72px;
     background-color: #f8f8f8;
@@ -242,12 +219,8 @@
     margin-left: 5px;
     border-radius: 10px;
     text-align: center;
-    
-
-    
 }
 .Youtube-icon{
-
     width:64px;
     height:72px;
     background-color: #f8f8f8;
@@ -257,35 +230,27 @@
     margin-left: 5px;
     border-radius: 10px;
     text-align: center;
-
-    
 }
-
 .Video-icon{
     width:64px;
     height:72px;
     background-color: #f8f8f8;
     align-content: center;
-    
     font-size: 1.3rem;
     margin-left: 5px;
     border-radius: 10px;
     text-align: center;
-
-
 }
 .User-icon{
     width:64px;
     height:72px;
     background-color: #f8f8f8;
     align-content: center;
-
     font-size: 1.3rem;
     margin-left: 5px;
     border-radius: 10px;
     text-align: center;
 }
-
 .Downloads-icon{
      width:64px;
     height:72px;
@@ -296,13 +261,11 @@
     border-radius: 10px;
     text-align: center;
 }
-
 .Premium-icon{
     width:64px;
     height:72px;
     background-color: #f8f8f8;
     align-content: center;
-
     font-size: 1.3rem;
     margin-left: 5px;
     border-radius: 10px;
