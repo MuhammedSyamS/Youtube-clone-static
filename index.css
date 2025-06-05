@@ -141,20 +141,19 @@
 }
 
 /**********************Second Nav*******************/
-
 .scroll-nav-bar{
     float: right;
-    width:1430px;
+    width:1420px;
     height:56px;
-    display: flexbox;
     flex-direction: row;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-      
+    
+     
     
 }
-
+    
 .content-nav-bar{
     width: 41px;
     height:32px;
@@ -177,6 +176,8 @@
     padding-top: 5px;
   
 }
+    
+
 
 /*******************SECTION 4 Vedio*************************/
 
@@ -190,6 +191,7 @@
     justify-content: space-evenly;
     padding-top: 25px;
     padding-left: 35px;
+    
     
 }
 
@@ -222,6 +224,7 @@
     justify-content: space-evenly ;
     position: absolute;
     display: grid;
+    
     
     
 }
