@@ -143,7 +143,7 @@
 /**********************Second Nav*******************/
 .scroll-nav-bar{
     float: right;
-    width:1420px;
+    width: 1400px;
     height:56px;
     flex-direction: row;
     display: flex;
@@ -173,7 +173,7 @@
 /*******************SECTION 4 Vedio*************************/
 .Video-Screen{
    float: right;
-    width:1350px;
+    width:1300px;
     height:250px;
     display: flexbox;
     display: flex;
@@ -185,7 +185,7 @@
 }
 .Video-embed-second-row{
     float: right;
-    width:1350px;
+    width:1300px;
     height:250px;
     display: flexbox;
     display: flex;
