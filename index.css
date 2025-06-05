@@ -33,6 +33,7 @@
     margin-left: 40px;
     
     
+    
 }
 
 
@@ -143,7 +144,7 @@
 /**********************Second Nav*******************/
 .scroll-nav-bar{
     float: right;
-    width: 1400px;
+    width: 1350px;
     height:56px;
     flex-direction: row;
     display: flex;
