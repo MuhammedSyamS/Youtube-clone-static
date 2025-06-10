@@ -4,6 +4,9 @@
     margin: 0;
     box-sizing: border-box; 
     
+
+
+    
 }
 .nav-bar{
 
@@ -175,31 +178,95 @@
 .Video-Screen{
    float: right;
     width:1300px;
-    height:250px;
-    display: flexbox;
+    height:550px;
+    padding-top: 25px;
+    padding-left: 20px;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    padding-top: 25px;
-    padding-left: 35px;
+    gap: 30px;
+
+
+    
+
+}
+.Video-frame-R11{
+    width:289px;
+    height:159px;
+    margin-bottom: 30px;
+   
+}
+.Video-frame-R12{
+    width:289px;
+    height:159px;
+    margin-bottom: 30px;
+
+}
+.Video-frame-R13{
+    width:289px;
+    height:159px;
+    margin-bottom: 30px;
     
 }
-.Video-embed-second-row{
-    float: right;
-    width:1300px;
-    height:250px;
-    display: flexbox;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    padding-top: 25px;
-    padding-left: 35px;
-    
+.Video-frame-R14{
+    width:289px;
+    height:159px;
+    margin-bottom: 30px;
     
 }
+
+
+
+
+
+.Video-frame-R21{
+    width:289px;
+    height:159px;
+    margin-bottom: 30px;
+     position: relative;
+    bottom: -250px;
+    left: -1270px;
+    
+}
+
+.Video-frame-R22{
+    width:289px;
+    height:159px;
+    margin-bottom: 30px;
+    position: relative;
+    bottom:-250px ;
+    left: -1270px;
+    
+}
+.Video-frame-R23{
+    width:289px;
+    height:159px;
+    margin-bottom: 30px;
+    position: relative;
+    bottom:-250px ;
+    left: -1270px;
+
+}
+.Video-frame-R24{
+    width:289px;
+    height:159px;
+    margin-bottom: 30px;
+    position: relative;
+    bottom:-250px ;
+    left: -1270px;
+
+}
+
+
+    
+
 .text{
+    
     font-weight: 600;
 }
+
+
+
+
 /*****left-section*****/
 .left-nav-bar{
     width:71px;
@@ -207,7 +274,8 @@
     display: flex;
     flex-direction: column;
     position: absolute;
-    display: grid;
+    gap: 15px;
+
 }
 .Name{
     font-size: small;
