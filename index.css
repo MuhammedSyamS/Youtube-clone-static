@@ -44,13 +44,15 @@
 
 .search-nav{
     background-color: transparent;
-    width: 760px;
+    width: 800px;
     height:40px;
     display: flex;
     padding-left: 50px;
    
 }
-.search-space{
+   
+
+ .search-space{
     
     height:40px;
     width: 900px;
@@ -62,10 +64,10 @@
     padding-left: 20px;
     opacity: 1;
     color: #0f0f0f;
-    border: 1px solid #d3d3d3 ;
+     border: 1px solid #d3d3d3 ;
     background-color: transparent;
+ }
 
-}   
 .search-icon{
     width:80px;
     height: 40px;
@@ -85,10 +87,10 @@
 }
 .microphone-icon{
     display: flex;
-    width: 40px;
+    width: 55px;
     height:40px;
     padding-top: 10px;
-    padding-left: 10px;
+    padding-left: 15px;
     font-size: 1.3rem;
     margin-left:20px;
     border-radius: 50%;
@@ -96,6 +98,12 @@
     opacity: 0.8;
     text-decoration:solid
 }
+
+.microphone-icon:hover{
+background-color: #d3d3d3;
+cursor: pointer;
+}
+
 .create-box{
     width :125px;
     height:40px;
@@ -135,11 +143,11 @@
     padding-left:10px;
     border-radius: 50%;
     
-    
-    
+
 }
+
 .bell-icon:hover{
-     background-color: #f8f8f8;
+     background-color: #d3d3d3;
      cursor: pointer;
 }
 .profile-icon{
@@ -173,6 +181,7 @@
     border-radius: 5px;
     text-align: center;
     padding-top: 5px;
+    cursor: pointer;
 }
 .content-nav-bar-2{
     width:50px;
@@ -182,6 +191,7 @@
     border-radius: 5px;
     text-align: center;
     padding-top: 5px;
+    cursor: pointer;
   
 }
 /*******************SECTION 4 Vedio*************************/
