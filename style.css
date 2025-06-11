@@ -1,4 +1,6 @@
-@media only screen and (max-width: 1025px) {
+
+@media (min-width: 992px) and (max-width: 1199.98px)
+{
   
 .logo{
     background-image: url(logo.PNG);
