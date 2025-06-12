@@ -345,3 +345,80 @@ justify-content: space-evenly;
 
 }
 
+@media  (min-width:480px) and (max-width: 767px)
+
+{
+
+.nav-bar{
+    width:480px;
+}
+.drop-down{
+    display: none;
+}
+
+
+.logo{
+    background-image: url(logo.PNG);
+    width:130px;
+    height:30px;
+    margin-left: 1px;
+    margin-bottom: 10px;
+    
+    
+    
+}
+
+
+.search-nav{
+    width: 1px;
+    margin-left:1px;
+      padding-left: 1px;
+
+   
+}
+.search-space{
+    display: none;
+    
+}
+.search-icon{
+   width:70px;
+    height: 40px;
+    border-radius: 50%;
+    opacity:1;
+    background-color:transparent;
+    border: 0px solid transparent;
+    margin-left: 20px;
+
+    
+
+}
+
+.create-box{
+    display: none;
+}
+
+.microphone-icon{
+
+    display: none;
+
+}
+
+.top-right-nav-section{
+    width:50px;
+    padding-left:70px;
+    margin-left: 5px;
+  
+  justify-content: space-evenly;
+}
+
+.bell-icon{
+
+padding-right: 13px;
+
+
+}
+.profile-icon{
+    background-color: transparent;
+
+}
+}
