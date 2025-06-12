@@ -345,12 +345,12 @@ justify-content: space-evenly;
 
 }
 
-@media  (min-width:480px) and (max-width: 767px)
+@media  (min-width:500px) and (max-width: 767px)
 
 {
 
 .nav-bar{
-    width:480px;
+    width:500px;
 }
 .drop-down{
     display: none;
@@ -359,7 +359,7 @@ justify-content: space-evenly;
     background-image: url(logo.PNG);
     width:130px;
     height:30px;
-    margin-left: 1px;
+    margin-left: 5px;
     margin-bottom: 10px;
       
 }
@@ -411,39 +411,42 @@ padding-right: 13px;
 
 /**********************Second Nav*******************/
 .scroll-nav-bar{
+    float: none;
+    width: 200px;
+    gap:8px;
+    padding-left: 5px;
     
-    width: 480px;
-    gap:10px;
-    overflow-x: scroll;
+
    
 }
     
 .content-nav-bar{
     width: 41px;
-    height:25px;
+    height:20px;
     
 }
 
 .content-nav-bar-2{
     width:50px;
-    height: 25px;
+    height: 20px;
     
   
 
 }
 .content-nav {
-    font-size: small;
+    font-size: x-small;
 }
 
 /*******************SECTION 4 Vedio*************************/
 .Video-Screen{
    
-    width:480px;
+    width:500px;
     height: 150px;
-    padding-top: 25px;
+    padding-top: 10px;
     display: flex;
     flex-direction: column;
     padding-left: 10px;
+    float: none;
      
 
 }
@@ -483,14 +486,9 @@ padding-right: 13px;
     flex-direction: row;
     position:absolute;
     gap: 1px;
-    
-    
-    
    position: fixed;
-  bottom: 0;
-  left: 0;
-  top: 570px;
-  
+   bottom: 0;
+   left: 0;
   background: #fff;
   display: flex;
   justify-content: space-around;
